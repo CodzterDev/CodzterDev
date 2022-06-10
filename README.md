@@ -2,6 +2,7 @@
 
 # Hi There👋 
 
-I am 17 and I find programming very interesting. I build some small projects here there and yeah, that's pretty much it.
+Current status: Learning JS
+New repos on the way :)
 
 Thanks for viewing my profile! :) 
