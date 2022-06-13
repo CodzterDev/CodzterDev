@@ -1,8 +1,11 @@
-![](https://komarev.com/ghpvc/?username=zaid-ahmad)
+![](https://komarev.com/ghpvc/?username=zaid-ahmad&color=yellow&!style=flat-square)
+![](https://img.shields.io/badge/Languages-Python%2C%20JavaScript%2C%20HTML%2C%20CSS-informational)
+# Hi There👋! 
 
-# Hi There👋 
+🤔 Current status: Learning JS
 
-Current status: Learning JS
-New repos on the way :)
+📍Goal: Learn web development and begin freelancing
 
-Thanks for viewing my profile! :) 
+🛣️ New repos on the way :)
+
+###### _Thanks for viewing my profile! 😃_
