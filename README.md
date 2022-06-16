@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/Languages-Python%2C%20JavaScript%2C%20HTML%2C%20CSS-informational)
 # Hi There👋! 
 
-🤔 Current status: Learning JS
+🤔 Current status: Learning Django
 
 📍Goal: Learn web development and begin freelancing
 
