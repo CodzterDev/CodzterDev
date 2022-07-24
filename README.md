@@ -4,8 +4,6 @@
 
 🤔 Current status: Learning Django
 
-📍Goal: Learn web development and begin freelancing
-
-🛣️ New repos on the way :)
+📍Goal: Become an open-source wizard 🧙‍♂️😁
 
 ###### _Thanks for viewing my profile! 😃_
