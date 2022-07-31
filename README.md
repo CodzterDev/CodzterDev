@@ -11,13 +11,9 @@ Skills: Django / Python / JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Zaid-Ahmad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/zaidahmad25)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/zaid-ahmad)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaid-Ahmad)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zaid-Ahmad&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Zaid-Ahmad)  
-
-![GitHub metrics](https://metrics.lecoq.io/Zaid-Ahmad)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Zaid-Ahmad)  
 
