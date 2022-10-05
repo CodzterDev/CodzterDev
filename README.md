@@ -18,8 +18,8 @@
 
 
 ## About me 🧑‍💻
-Welcome to my GitHub, here you'll find repositories ranging from absolute "trash" to "awesome" (awesome ones not uploaded yet 😁 good ones are there though hehe)
-I do Web Development with Django and in the near future, I want to build a good social profile and become a successful freelancer 🤩
+I am a high school student passionate about web development and open source. Currently I am building projects, learning and strengthening concepts. In the near future, I'll become more active on github because currently I have my studies to manage... 
+Thanks for viewing my profile 🤗
 
 
 ## Languages and Tools
@@ -33,6 +33,7 @@ I do Web Development with Django and in the near future, I want to build a good 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" **alt="Markdown" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" **alt="VS Code" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" **alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
 
 ## Stats 📍
