@@ -38,6 +38,6 @@ Thanks for viewing my profile 🤗
 
 ## Stats 📍
 
-![](https://github-readme-stats.vercel.app/api?username=zaid-ahmad&show_icons=true&theme=dark&background=000000)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zaid-ahmad&theme=dark&background=000000)
+![](https://github-readme-stats.vercel.app/api?username=zaidahmad25&show_icons=true&theme=dark&background=000000)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zaidahmad25&theme=dark&background=000000)
 
