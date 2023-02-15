@@ -1,43 +1,82 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
-</div>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Hi%20There!&fontSize=90&animation=fadeIn&fontAlignY=40)
 
-
-<div id="badges" align="center">
+<div style="display: flex; justify-content: center; gap: 20px">
   <a href="https://twitter.com/zaidahmad25">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <img src="https://cdn0.iconfinder.com/data/icons/phosphor-duotone-vol-3/256/twitter-logo-duotone-512.png" width=60>
   </a>
+
+  <a href="https://twitter.com/zaidahmad25">
+  <img src="https://cdn0.iconfinder.com/data/icons/phosphor-bold-vol-3-1/256/linkedin-logo-duotone-256.png" width=60>
+</a>
+
+<a href="https://linkfree.eddiehub.io/zaidahmad25">
+  <img src="https://cdn0.iconfinder.com/data/icons/phosphor-bold-vol-3-1/256/globe-simple-duotone-512.png" width=60>
+</a>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=zaid-ahmad&style=flat-square&color=blue" alt=""/>
-  <h1>
-  Hey Guys <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<div style="display: flex; justify-content: center; padding-top:30px; margin-bottom:30px;">
+<img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
 </div>
 
+<br>
 
-## About me 🧑‍💻
-I am a high school student passionate about web development and open source. Currently I am building projects, learning and strengthening concepts. In the near future, I'll become more active on github because currently I have my studies to manage... 
-Thanks for viewing my profile 🤗
+<h2> 👨‍💻 &nbsp;A Little About Me and My Interests</h2>
 
+```yaml
+name: Zaid Ahmad
+age: 17,
+located_in: Delhi, India
+what_i_do: Frontend Web Development
+education:
+  [
+    "Self-Taught Developer and Designer",
+    "High School",
+  ]
 
-## Languages and Tools
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" **alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" **alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" **alt="Markdown" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" **alt="VS Code" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" **alt="MySQL" width="40" height="40"/>&nbsp;
-</div>
+fields_of_interests:
+  [
+    "Web Development",
+    "UI/UX",
+    "DevOps",
+    "Artificial Intelligence",
+    "App Development",
+  ]
+  
+currently_learning: ["Backend from The Odin Project"]
+2023 Goals: ["Learn MEAN stack and build 15+ projects"]
+hobbies: ["Gaming", "Photography", "Cinematography", "Solving Puzzles"]
+```
+<br>
 
-## Stats 📍
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45"/>
+<!-- REACT, MONGO DB, EXPRESS, ANGULAR, 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
+-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=zaidahmad25&show_icons=true&theme=dark&background=000000)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zaidahmad25&theme=dark&background=000000)
+<br>
 
+<h2> 🏆 &nbsp;GitHub Stats</h2>
+
+[![Zaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaidahmad25&theme=graywhite)](https://github.com/zaidahmad25/github-readme-stats)
+
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer&animation=fadeIn"/>
+</p>
