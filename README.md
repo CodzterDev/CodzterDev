@@ -1,10 +1,13 @@
 ## Hello!👋 My name is Zaid- welcome to my GitHub!
 
-🧑‍🎓 I am a software development student at the Southern Alberta Institute of Technology
+🧑‍🎓 I am a software development student at the Southern Alberta Institute of Technology 				
+
 💻 I am a full stack web developer   
-🛠️ Currently building my portfolio 
+
 💬 Would love to talk about open source and freelancing    
+
 📌 My 2023 goal is to get really good at contributing and freelancing    
+
 ✉️ Reach me: zaidd250@gmail.com 
 
 
