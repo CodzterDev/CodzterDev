@@ -1,40 +1,18 @@
-<p align="center"> Hello!👋 welcome to my GitHub! </p>
-
-## My name is Zaid Ahmad
-
-<div>
+## Hi there, I am Zaid !
+<div id="badges">
 	
-	🧑‍🎓 I am a student at the Southern Alberta Institute of Technology
- 	
-  	💻 I am a Full Stack Web Developer
-	
-	💬 I love talking about OSS, Freelancing and startups.   
-	
-	⚒️ Currently building a Twitter (X) clone with Next.js and TypeScript
-	
-	✉️ Reach me: zaidd250@gmail.com 
+<a href="https://www.linkedin.com/in/zaidahmad25/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://x.com/zaidahmad__dev">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
 
-### My tech stack
-<div>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
-	<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="45" height="45"/>
-	<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" width="45" height="45"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45" height="45"/>
-	<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
-	<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg" width="45" height="45"/>
-	<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original.svg" width="45" height="45"/>
-	<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
-	<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
-	<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" width="45" height="45"/>
-</div>
+<img src='https://media.tenor.com/_Zc9LQ9QtBsAAAAC/naruto-kakashi.gif'>
 
-### My Socials
-<p>
-	<a href="https://twitter.com/zaidahmad__dev" target="_blank">
-		<img src="https://cdn2.iconfinder.com/data/icons/social-aquiocons/512/Aquicon-Twitter.png" width=60>
-	</a>
-	<a href="https://www.linkedin.com/in/zaidahmad25" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-aquiocons/512/Aquicon-Linkedin.png" width=60></a>
-</p>
+## I am a software dev. student at SAIT 🏫
+- I am a developer and I love building stuff that helps people.
+- I wrote my first ever line of code when I was 11 but started doing it seriously when I was 16.
+- I am mostly a full stack dev i.e. both frontend and backend.
+- If you want to work or collaborate with me than just shoot me a dm on twitter `@zaidahmad__dev` or write me an email to `zaidd250@gmail.com` <br>
