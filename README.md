@@ -13,6 +13,5 @@
 
 ## I am a software dev. student at SAIT 🏫
 - I am a developer and I love building stuff that helps people.
-- I wrote my first ever line of code when I was 11 but started doing it seriously when I was 16.
 - I am mostly a full stack dev i.e. both frontend and backend.
 - If you want to work or collaborate with me than just shoot me a dm on twitter `@zaidahmad__dev` or write me an email to `zaidd250@gmail.com` <br>
