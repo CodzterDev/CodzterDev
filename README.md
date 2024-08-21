@@ -11,7 +11,7 @@
 
 <img src='https://media.tenor.com/_Zc9LQ9QtBsAAAAC/naruto-kakashi.gif'>
 
-## I am a software dev. student at SAIT 🏫
+## I am a software dev. based in canada 🍁
 - I am a developer and I love building stuff that helps people.
 - I am mostly a full stack dev i.e. both frontend and backend.
-- If you want to work or collaborate with me than just shoot me a dm on twitter `@zaidahmad__dev` or write me an email to `zaidd250@gmail.com` <br>
+- If you want to work or collaborate with me than just shoot me a dm on twitter `@_zaidahmad` or write me an email to `zaidd250@gmail.com` <br>
