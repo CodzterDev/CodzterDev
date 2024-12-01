@@ -1,4 +1,4 @@
-## Hi there, I am Zaid! 👋
+## hi there, zaid here! 👋
 <div id="badges">
 	
 <a href="https://www.linkedin.com/in/zaidahmad25/">
@@ -11,7 +11,7 @@
 
 <img src='https://media.tenor.com/_Zc9LQ9QtBsAAAAC/naruto-kakashi.gif'>
 
-## I am a software dev. based in canada 🍁
-- I am a developer and I love building stuff that helps people.
-- Currently, I'm building an open-source version of Canva.
-- If you want to work or collaborate with me than just shoot me a dm on twitter `@zaidahmad25` or write me an email to `zaidd250@gmail.com` <br>
+## i am a software dev. based in canada 🍁
+- yes i love typing everything in lowercase 😁
+- currently, i'm building an open-source version of canva
+- if you want to work or collaborate with me than just shoot me a dm on x `@zaidahmad25` or write me an email to `zaidd250@gmail.com` <br>
