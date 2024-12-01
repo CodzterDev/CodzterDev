@@ -13,5 +13,5 @@
 
 ## I am a software dev. based in canada 🍁
 - I am a developer and I love building stuff that helps people.
-- I am mostly a full stack dev i.e. both frontend and backend.
-- If you want to work or collaborate with me than just shoot me a dm on twitter `@_zaidahmad` or write me an email to `zaidd250@gmail.com` <br>
+- Currently, I'm building an open-source version of Canva.
+- If you want to work or collaborate with me than just shoot me a dm on twitter `@zaidahmad25` or write me an email to `zaidd250@gmail.com` <br>
