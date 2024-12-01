@@ -1,4 +1,4 @@
-## hi there, zaid here! 👋
+## hellooo, zaid here! 👋
 <div id="badges">
 	
 <a href="https://www.linkedin.com/in/zaidahmad25/">
